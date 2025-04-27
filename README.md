@@ -2,6 +2,10 @@
 
 Mini Log Viewer is a compact, real-time log monitoring tool designed for Unity developers. It allows you to view and filter logs in a small, adjustable window. Whether you're debugging or checking logs during gameplay, this tool provides an easy way to track log entries without cluttering your workspace.
 
+## Demo
+![Screenshot 2025-04-27 124902](https://github.com/user-attachments/assets/27ad7270-85c2-4873-a758-f78a6020a599)
+
+
 ## Features
 
 - **Real-Time Log Monitoring**: View logs in real-time as they are generated.
